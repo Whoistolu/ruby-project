@@ -5,7 +5,6 @@ Ruby projects from the Odin project
 # Project
 Substring
 Caeser Cipher
-Stock Picker
 Bubble Sort
 
 
