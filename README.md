@@ -1,12 +1,9 @@
-# ruby-project
+# Ruby-Project
 Ruby projects from the Odin project
-
-
 # Project
 Substring
 Caeser Cipher
 Bubble Sort
-
 
 ## Built With
 
